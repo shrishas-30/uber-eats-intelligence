@@ -1,0 +1,31 @@
+sentiment,rank,term_or_phrase,association_score
+Negative,1,cold,6.0319
+Negative,2,disappointing,5.9902
+Negative,3,late,5.9173
+Negative,4,poor,5.8255
+Negative,5,cold disappointing,5.5415
+Negative,6,incorrect,5.3914
+Negative,7,communication,5.3183
+Negative,8,long,5.3183
+Negative,9,long preparation,5.3183
+Negative,10,preparation,5.3183
+Neutral,1,special,6.1223
+Neutral,2,better,6.1039
+Neutral,3,fine,6.1039
+Neutral,4,fine better,6.1039
+Neutral,5,okay,5.9973
+Neutral,6,taste,5.9412
+Neutral,7,acceptable,5.9412
+Neutral,8,missing,-1.8847
+Neutral,9,poor packaging,-1.8847
+Neutral,10,not fresh,-1.8907
+Positive,1,warm,4.9801
+Positive,2,helpful,4.9801
+Positive,3,loved,4.9795
+Positive,4,good,4.9124
+Positive,5,good value,4.9124
+Positive,6,value,4.9124
+Positive,7,deliciou,4.9124
+Positive,8,tasty,4.8934
+Positive,9,tasty arrived,4.8934
+Positive,10,fresh tasty,4.8934

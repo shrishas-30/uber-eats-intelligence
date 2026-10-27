@@ -4,8 +4,11 @@ scikit-learn
 matplotlib
 seaborn
 nltk
+vaderSentiment
 statsmodels
 prophet
 jupyter
 joblib
 ipykernel
+scipy
+

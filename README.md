@@ -34,3 +34,5 @@ This project uses synthetic food-delivery data and machine learning to analyze c
 - **Day 1 – Synthetic Data Generation:** Completed. Generated synthetic customer, restaurant, order, delivery, payment, driver, and review datasets with validation checks.
 
 - **Day 2 – Data Preparation and Segmentation:** Completed. Performed feature engineering, missing-value treatment, standardization, K-Means clustering, DBSCAN clustering, silhouette evaluation, PCA visualization, and cluster profiling for customers and restaurants.
+
+- **Day 3 – Customer Feedback Analysis Using NLP:** Completed. Preprocessed customer reviews, applied TF-IDF, built and evaluated a Naive Bayes sentiment classifier, compared results with VADER, and identified key sentiment terms and customer complaint themes.

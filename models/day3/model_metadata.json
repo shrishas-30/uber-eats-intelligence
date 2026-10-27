@@ -1,0 +1,12 @@
+{
+  "model": "Multinomial Naive Bayes with TF-IDF",
+  "training_records": 4774,
+  "test_records": 1194,
+  "text_normalization": "simple suffix fallback",
+  "labels": [
+    "Negative",
+    "Neutral",
+    "Positive"
+  ],
+  "random_state": 42
+}
