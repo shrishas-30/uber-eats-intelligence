@@ -7,3 +7,5 @@ nltk
 statsmodels
 prophet
 jupyter
+joblib
+ipykernel
