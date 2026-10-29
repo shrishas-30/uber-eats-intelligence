@@ -36,3 +36,7 @@ This project uses synthetic food-delivery data and machine learning to analyze c
 - **Day 2 – Data Preparation and Segmentation:** Completed. Performed feature engineering, missing-value treatment, standardization, K-Means clustering, DBSCAN clustering, silhouette evaluation, PCA visualization, and cluster profiling for customers and restaurants.
 
 - **Day 3 – Customer Feedback Analysis Using NLP:** Completed. Preprocessed customer reviews, applied TF-IDF, built and evaluated a Naive Bayes sentiment classifier, compared results with VADER, and identified key sentiment terms and customer complaint themes.
+
+- **Day 4 – Delivery Time Prediction:** Completed. Performed EDA, feature selection, regression modeling, model evaluation, cross-validation, and feature importance analysis to predict delivery times.
+
+- **Day 5 – Hourly Demand Forecasting:** Completed. Analyzed hourly and weekly demand patterns, tested stationarity using the ADF test, built and compared ARIMA and Prophet forecasting models, and generated a 24-hour demand forecast to support operational planning.
