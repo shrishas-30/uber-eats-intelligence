@@ -8,7 +8,7 @@ The objective is to develop an end-to-end machine learning pipeline that transfo
 ## Objectives
 - Customer and restaurant segmentation using K-Means and DBSCAN.
 - Customer feedback and sentiment analysis using NLP.
-- Delivery time or tip prediction using regression models.
+- Delivery time prediction using regression models.
 - Hourly order demand forecasting using ARIMA and Prophet.
 - End-to-end ML pipeline development.
 - Data-driven business recommendations.
@@ -48,4 +48,7 @@ The objective is to develop an end-to-end machine learning pipeline that transfo
 
 - **Day 6 – End-to-End ML Pipeline & Business Insights:** Completed. Integrated customer & restaurant segmentation, sentiment analysis, delivery-time prediction and demand forecasting. Consolidated model comparisons, derived business insights, provided data-backed recommendations and documented model limitations & future improvements.
 
-- **Day 7 – Project Finalization & Presentation:** Completed. Finalized project documentation, data dictionary, business insights report and prepared the final project presentation. 
+- **Day 7 – Project Finalization & Presentation:** Completed. Finalized project documentation, data dictionary, business insights report and prepared the final project presentation.
+
+## Conclusion
+The Uber Eats Operational & Customer Intelligence System demonstrates how data analytics and machine learning can transform raw food-delivery data into meaningful business insights. Through customer and restaurant segmentation, sentiment analysis, delivery-time prediction, and demand forecasting, the project provides a consolidated understanding of customer behaviour and operational performance.
