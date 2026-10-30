@@ -1,0 +1,6 @@
+component,method,evaluation,result
+Customer segmentation,K-Means (K=2),Silhouette score,0.237
+Restaurant segmentation,K-Means (K=2),Silhouette score,0.235
+Sentiment analysis,TF-IDF + Naive Bayes,Accuracy / weighted F1,1.000 / 1.000
+Delivery-time prediction,Ridge Regression,MAE / RMSE / R²,5.437 min / 6.739 min / 0.794
+Hourly demand forecasting,"ARIMA(1,1,1)",MAE / RMSE / MAPE,0.798 / 1.016 / 30.132%

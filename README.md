@@ -40,3 +40,5 @@ This project uses synthetic food-delivery data and machine learning to analyze c
 - **Day 4 – Delivery Time Prediction:** Completed. Performed EDA, feature selection, regression modeling, model evaluation, cross-validation, and feature importance analysis to predict delivery times.
 
 - **Day 5 – Hourly Demand Forecasting:** Completed. Analyzed hourly and weekly demand patterns, tested stationarity using the ADF test, built and compared ARIMA and Prophet forecasting models, and generated a 24-hour demand forecast to support operational planning.
+
+- **Day 6 – End-to-End ML Pipeline & Business Insights:** Completed. Integrated customer & restaurant segmentation, sentiment analysis, delivery-time prediction and demand forecasting. Consolidated model comparisons, derived business insights, provided data-backed recommendations and documented model limitations & future improvements.
